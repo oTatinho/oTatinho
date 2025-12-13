@@ -1,4 +1,3 @@
-
 <div>
 
   <img align="left" height="200" src="https://twicewrldd.carrd.co/assets/images/image02.gif?v=49475fc8"/>
@@ -10,12 +9,12 @@
   + 📍 Presidente Epitácio - SP
   - 18 anos
   
-  
   ```
 </div>
+
 <div>
   
-  <br>
+<br><br>
     
   ### 🛠️ Ferramentas:
   
