@@ -1,12 +1,6 @@
 
 <div>
-  <div align="center">
-    
-   ### 💫 Sobre mim:
-  
-  </div>
-  <br>
-  
+
   <img align="left" height="200" src="https://twicewrldd.carrd.co/assets/images/image02.gif?v=49475fc8"/>
     
   ```diff
@@ -19,7 +13,7 @@
   
   ```
 </div>
-<div align="center">
+<div>
   
   <br>
     
