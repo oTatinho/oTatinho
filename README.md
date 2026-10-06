@@ -6,7 +6,7 @@
   
   @@ 💻 Técnica em Informática @@
   + 📍 Presidente Epitácio - SP
-  - 18 anos
+  - 19 anos
   
   ```
 <div align="center">
